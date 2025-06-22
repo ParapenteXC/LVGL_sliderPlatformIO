@@ -1,0 +1,26 @@
+{
+	"folders": [
+		{
+			"path": "../../BLE_Vario"
+		},
+		{
+			"name": "BLE_Test",
+			"path": "../../BLE_Test"
+		},
+		{
+			"name": "alive",
+			"path": "../../alive"
+		},
+		{
+			"name": "ASCI_Display",
+			"path": "../../ASCI_Display"
+		},
+		{
+			"name": "LVGL_Slider",
+			"path": ".."
+		}
+	],
+	"settings": {
+		"platformio-ide.disablePIOHomeStartup": true
+	}
+}
